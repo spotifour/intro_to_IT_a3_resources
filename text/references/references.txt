@@ -1,0 +1,17 @@
+[1]	Adaptive Sound Technologies, Inc. “White, Pink, and Brown Noise: What's the difference?.” Sound of Sleep. https://www.soundofsleep.com/white-pink-brown-noise-whats-
+difference/ (accessed Jan. 8, 2022).
+[2]	M. Lozhko. “15 top web development trends in 2021.” lanars. https://lanars.com/blog/top-web-development-trends (accessed Jan. 8, 2022).
+[3]	myNoise. "Focus at Work • Relax at Home • Sleep at Night." mynoise.net. https://mynoise.net/ (accessed Jan. 8, 2022).
+[4]	ZOOM. “H4n Pro Four-Track Audio Recorder.” Zoomcorp.com. https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h4n-pro/ (accessed Jan. 8, 2022).
+[5]	React. “React - A javascript library for building user interfaces.” reactjs.org. https://reactjs.org/ (accessed Dec. 9, 2021).
+[6]	Spotify for Developer. “Web API.” developer.spotify.com. https://developer.spotify.com/documentation/web-api/ (accessed Dec. 9, 2021). 
+[7]	A. Demarest. “What Is Canva? a Guide to the Graphic Design Platform.” Business Insider. https://www.businessinsider.com/what-is-canva (accessed Jan. 8, 2022).
+[8]	Mynewmicrophone. “Best Microphones For Recording Ambience.” mynewmicrophone.com. https://mynewmicrophone.com/ambience/ (accessed Dec. 9, 2021)
+[9]	Unsplash. “The internet’s source of freely-usable images.” unsplash.com. https://unsplash.com/ (accessed Dec. 9, 2021).
+[10]	Firebase. “Firebase helps you build and run successful apps.” firebase.google.com. https://firebase.google.com/ (accessed Dec. 9, 2021).
+[11]	J. Keeley. “What Is Google Meet and How Does It Work?” MakeUseOf.  https://www.makeuseof.com/tag/what-is-google-meet/ (accessed Dec. 24, 2021).
+[12]	M. Weir. “What Is Asana? How the App Works, How to Use It” Business Insider. https://www.businessinsider.com/what-is-asana (accessed Dec. 24, 2021).
+[13]	J. Zilincan, "Search engine optimization," in CBU International Conference Proceedings, 2015, vol. 3, pp. 506-510.
+[14]	LOCALiQ. “What Is PPC? Learn the Basics of Pay-Per-Click Marketing.” WordStream.com. https://www.wordstream.com/ppc (accessed Jan. 2, 2022).
+[15]	MuleSoft. “What is an API? (Application Programming Interface).”  Mulesoft.com. https://www.mulesoft.com/resources/api/what-is-an-api (accessed Jan. 2, 2022).
+[16]	G. G. Schulmeyer, Handbook of software quality assurance: Artech House, Inc., 2007.
